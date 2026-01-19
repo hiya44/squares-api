@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "squares-api": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

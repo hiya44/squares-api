@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/Squares.UnitTests/Squares.UnitTests.csproj" Id="6e143d90-2248-4e17-8c95-bf2fb3adecb0" />
+  </Folder>
+  <Project Path="src/Squares.Application/Squares.Application.csproj" />
+  <Project Path="src/Squares.Domain/Squares.Domain.csproj" />
+  <Project Path="src/Squares.Infrastructure/Squares.Infrastructure.csproj" />
+  <Project Path="src/Squares.WebAPI/Squares.WebAPI.csproj" />
+</Solution>
